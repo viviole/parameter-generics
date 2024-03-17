@@ -4,10 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpmodul_5", "tpmodul_5\tpmodul_5.csproj", "{AFB317E1-AC16-40CB-A6CC-3374D483039B}"
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpmodul_5", "tpmodul_5\tpmodul_5.csproj", "{9DEB33AD-5A0B-4429-BCBC-5E2CBD6B3B48}"
 >>>>>>> 2c3fabba588207256299289904fba8ee47732632
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpmodul_5", "tpmodul_5\tpmodul_5.csproj", "{8F2C3185-8D3E-4656-A368-556B6983A64B}"
+>>>>>>> generic-method
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 <<<<<<< HEAD
 		{AFB317E1-AC16-40CB-A6CC-3374D483039B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AFB317E1-AC16-40CB-A6CC-3374D483039B}.Debug|Any CPU.Build.0 = Debug|Any CPU
@@ -26,15 +31,25 @@ Global
 		{9DEB33AD-5A0B-4429-BCBC-5E2CBD6B3B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DEB33AD-5A0B-4429-BCBC-5E2CBD6B3B48}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> 2c3fabba588207256299289904fba8ee47732632
+=======
+		{8F2C3185-8D3E-4656-A368-556B6983A64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2C3185-8D3E-4656-A368-556B6983A64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2C3185-8D3E-4656-A368-556B6983A64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2C3185-8D3E-4656-A368-556B6983A64B}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> generic-method
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 <<<<<<< HEAD
+<<<<<<< HEAD
 		SolutionGuid = {432DC019-3E28-4CAC-B114-E60C90F23531}
 =======
 		SolutionGuid = {6EE87FFB-69B8-4851-886E-BCDDACB2766B}
 >>>>>>> 2c3fabba588207256299289904fba8ee47732632
+=======
+		SolutionGuid = {807CF18A-0EE2-496D-80BA-A94F5BC459CD}
+>>>>>>> generic-method
 	EndGlobalSection
 EndGlobal
