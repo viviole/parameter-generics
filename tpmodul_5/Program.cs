@@ -1,30 +1,17 @@
-﻿using System;
-
-<<<<<<< HEAD
-=======
 using System;
->>>>>>> generic-method
+
 
 public class HaloGeneric
 {
     public void SapaUser(string nama)
     {
-<<<<<<< HEAD
         Console.WriteLine("Halo user " + nama);
-=======
-        Console.WriteLine($"Halo user {nama}");
->>>>>>> generic-method
     }
 
     public static void Main(string[] args)
     {
         HaloGeneric halo = new HaloGeneric();
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
    
->>>>>>> 2c3fabba588207256299289904fba8ee47732632
         Console.Write("Masukkan nama: ");
         string input = Console.ReadLine();
         halo.SapaUser(input);
@@ -51,13 +38,3 @@ public class DataGeneric<T>
         Console.WriteLine($"Data yang tersimpan adalah: {_data}");
     }
 }
-=======
-
-        Console.Write("Enter your name: ");
-        string userInput = Console.ReadLine();
-               
-        halo.SapaUser(userInput);
-    }
-}
-
->>>>>>> generic-method
