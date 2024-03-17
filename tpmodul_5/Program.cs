@@ -11,7 +11,11 @@ public class HaloGeneric
     public static void Main(string[] args)
     {
         HaloGeneric halo = new HaloGeneric();
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 2c3fabba588207256299289904fba8ee47732632
         Console.Write("Masukkan nama: ");
         string input = Console.ReadLine();
         halo.SapaUser(input);
